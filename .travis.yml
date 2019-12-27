@@ -5,8 +5,7 @@ matrix:
   - os: linux
     jdk: oraclejdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     dist: trusty
     addons:
       apt:
@@ -23,8 +22,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     dist: trusty
     addons:
       apt:
@@ -41,8 +39,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     dist: trusty
     addons:
       apt:
@@ -60,8 +57,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     dist: trusty
     addons:
       apt:
@@ -78,8 +74,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     dist: trusty
     addons:
       apt:
@@ -106,8 +101,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     android:
       components:
         - tools
@@ -147,8 +141,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     android:
       components:
         - tools
@@ -182,8 +175,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     android:
       components:
         - tools
@@ -217,8 +209,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     android:
       components:
         - tools
@@ -252,8 +243,7 @@ matrix:
   - os: linux
     jdk: openjdk8
     python:
-      - 3.6
-      - 2.7
+      - 3.7
     android:
       components:
         - tools
